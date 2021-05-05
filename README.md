@@ -1,7 +1,8 @@
 <h1>
   Hello, I'm Lakphy.
 </h1>
-Front-end Developer,
+Front-end Developer,<br>
+React, Vuejs, Wechat-miniprogram,<br>
 Python, JavaScript, Electronics, C, C++, Algorithm, Linux 
 <br><br>
 
