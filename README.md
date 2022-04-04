@@ -8,4 +8,3 @@ Python, JavaScript, Electronics, C, C++, Algorithm, Linux
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakphy&show_icons=true&hide=["commits","contribs"])
 
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=lakphy&layout=compact)
