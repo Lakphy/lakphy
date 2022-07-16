@@ -6,5 +6,3 @@ React, Vuejs, Wechat-miniprogram,<br>
 Python, JavaScript, Electronics, Algorithm, Linux 
 <br><br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakphy&show_icons=true&hide=["commits","contribs"])
-
