@@ -2,8 +2,7 @@
   Hi, I'm Lakphy.
 </h1>
 Front-end Developer,<br>
-React, Wechat-miniprogram,<br>
-JavaScript, TypeScript, Linux 
+React, JavaScript, TypeScript
 <br><br>
 
 
