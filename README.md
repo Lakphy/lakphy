@@ -9,4 +9,3 @@ Strong advocate of React.js (although I use Vue.js for work 🥹)
 <br><br>
 
 
-**My main work schedule is 10-11-6. I don't mind being disturbed, but I may not be able to handle Github information in time most of the time. Please understand.**
