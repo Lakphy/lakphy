@@ -2,3 +2,4 @@
   Hi, I'm Harry Li (Lakphy).
 </h1>
 
+TypeScript Native Developer, make AI Apps.
